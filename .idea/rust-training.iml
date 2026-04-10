@@ -2,10 +2,10 @@
 <module type="EMPTY_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/S00-hello-world/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/S01-vectors/src" isTestSource="false" />
-      <excludeFolder url="file://$MODULE_DIR$/S00-hello-world/target" />
-      <excludeFolder url="file://$MODULE_DIR$/S01-vectors/target" />
+      <sourceFolder url="file://$MODULE_DIR$/S00_hello_world/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/S01_vectors/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/S00_hello_world/target" />
+      <excludeFolder url="file://$MODULE_DIR$/S01_vectors/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

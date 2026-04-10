@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "S01-vectors"
+name = "S01_vectors"
 version = "0.1.0"

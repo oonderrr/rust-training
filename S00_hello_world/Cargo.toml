@@ -1,5 +1,5 @@
 [package]
-name = "S00-hello-world"
+name = "S00_hello_world"
 description = "Hello world and data types"
 version = "0.1.0"
 edition = "2024"
