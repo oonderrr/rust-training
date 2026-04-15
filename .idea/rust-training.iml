@@ -7,11 +7,13 @@
       <sourceFolder url="file://$MODULE_DIR$/S02_strings/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/S03_functions/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/S04_control_flows/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/S05_ownership/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/S00_hello_world/target" />
       <excludeFolder url="file://$MODULE_DIR$/S01_vectors/target" />
       <excludeFolder url="file://$MODULE_DIR$/S02_strings/target" />
       <excludeFolder url="file://$MODULE_DIR$/S03_functions/target" />
       <excludeFolder url="file://$MODULE_DIR$/S04_control_flows/target" />
+      <excludeFolder url="file://$MODULE_DIR$/S05_ownership/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
